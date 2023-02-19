@@ -1,0 +1,42 @@
+
+.calculator{
+    text-align: center;
+    margin-top: 20px;
+    font-family: cursive;
+}
+
+
+.inputs{
+    justify-content: space-evenly;
+    align-items: center;
+    font-family: cursive;
+    margin-top: 100px;
+    height: 150px;
+}
+
+.inputs input{
+    width: 350px;
+}
+
+
+.buttons{
+    text-align: center;
+    font-family: cursive;
+}
+
+.buttons button{
+    margin: 15px;
+    width: 150px;
+}
+
+
+
+.output{
+    margin-top: 70px;
+    text-align: center;
+    font-family: cursive;
+}
+
+.output input{
+    width: 350px;
+}
